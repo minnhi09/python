@@ -29,4 +29,4 @@ password = ""
 for char in password_list:
     password += char
 
-print(f'your password is: ${password}'3)
+print(f'your password is: ${password}')
